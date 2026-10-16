@@ -1,0 +1,7 @@
+
+Known Issues
+
+- Ambient light sensor does not currently produce useful ADC readings.
+- Schematic indicates GPIO34.
+- Hardware testing has not verified the signal path.
+- Investigation deferred.
